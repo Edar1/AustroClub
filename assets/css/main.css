@@ -3349,6 +3349,13 @@
 			font-weight: 300;
 			margin: 0;
 		}
+		.video .additional-text {
+			color: #2A2829;
+			padding: 1.5em;
+			font-size: 1.25em;
+			font-weight: 300;
+			margin: 0;
+		}
 
 		.video .link {
 			position: absolute;
